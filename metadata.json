@@ -1,0 +1,6 @@
+{
+  "name": "One From a Life",
+  "description": "A living archive of human experience. One human. One lived life. One distilled insight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

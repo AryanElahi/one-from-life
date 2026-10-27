@@ -1,0 +1,637 @@
+{
+  "users": [
+    {
+      "id": "admin-user",
+      "email": "admin@onefromalife.com",
+      "displayName": "Archive Guardian",
+      "anonymousMode": false,
+      "age": 40,
+      "country": "Global",
+      "createdAt": "2026-08-28T11:15:08.078Z",
+      "isAdmin": true
+    },
+    {
+      "id": "usr_i5i7nlwmtcuvnrr",
+      "email": "a@gmail.com",
+      "displayName": "a",
+      "anonymousMode": false,
+      "age": 32,
+      "country": "Global",
+      "createdAt": "2026-08-28T11:15:57.591Z",
+      "isAdmin": false
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lsn_f1k1zd1mtcuxmi0",
+      "userId": "usr_i5i7nlwmtcuvnrr",
+      "text": "mjgkjh",
+      "context": "hmbjh",
+      "topics": [
+        "Life"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-08-28T11:17:29.256Z",
+      "createdAt": "2026-08-28T11:17:29.256Z",
+      "authorDisplayName": "a",
+      "authorAge": 32,
+      "authorCountry": "Global",
+      "isAnonymous": false,
+      "neededCount": 0
+    },
+    {
+      "id": "seed-1",
+      "userId": "user-kyoto-71",
+      "text": "زمان کمتری از آنچه می‌پندارید در اختیار دارید، و اختیاری بسیار بیش از آنچه گمان می‌برید.",
+      "context": "آموخته‌شده پس از بازنشستگی از ۴۴ سال نجاری سنتی در کیوتو.",
+      "topics": [
+        "Time",
+        "Life",
+        "Growth"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-04-12T10:00:00.000Z",
+      "createdAt": "2026-04-12T10:00:00.000Z",
+      "authorDisplayName": "کنجی (Kenji)",
+      "authorAge": 71,
+      "authorCountry": "ژاپن",
+      "authorCity": "کیوتو",
+      "isAnonymous": false,
+      "neededCount": 8
+    },
+    {
+      "id": "seed-2",
+      "userId": "user-lisbon-38",
+      "text": "بخش بزرگی از عمرم را صرف تلاش برای فهمانده شدن به کسانی کردم که پیش‌تر تصمیمشان را درباره من گرفته بودند.",
+      "context": "یک دهه تلاش بیهوده برای جلب رضایت و تأیید شرکای تجاری سابقم.",
+      "topics": [
+        "Freedom",
+        "Friendship",
+        "Growth"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-05-18T14:20:00.000Z",
+      "createdAt": "2026-05-18T14:20:00.000Z",
+      "authorDisplayName": "مارتا (Marta)",
+      "authorAge": 38,
+      "authorCountry": "پرتغال",
+      "authorCity": "لیسبون",
+      "isAnonymous": false,
+      "neededCount": 14
+    },
+    {
+      "id": "seed-3",
+      "userId": "user-tehran-34",
+      "text": "کسانی که تمام تلاشتان را برای تحت تأثیر قرار دادنشان می‌کنید، شاید حتی یک‌دهم آنچه تصور می‌کنید به شما فکر نمی‌کنند.",
+      "context": "درک‌شده در گردهمایی فارغ‌التحصیلان دانشگاه پس از سال‌ها اضطراب خاموش.",
+      "topics": [
+        "Growth",
+        "Life"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-06-01T08:15:00.000Z",
+      "createdAt": "2026-06-01T08:15:00.000Z",
+      "authorDisplayName": "سارا",
+      "authorAge": 34,
+      "authorCountry": "ایران",
+      "authorCity": "تهران",
+      "isAnonymous": false,
+      "neededCount": 21
+    },
+    {
+      "id": "seed-4",
+      "userId": "user-reyk-52",
+      "text": "می‌توان کسی را از صمیم قلب دوست داشت و همچنان دانست که در کنار هم ماندن راه درستی نیست.",
+      "context": "پس از شانزده سال زندگی مشترک که به فرسودگی خاموش بدل شده بود.",
+      "topics": [
+        "Love",
+        "Loss",
+        "Courage"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-06-10T12:00:00.000Z",
+      "createdAt": "2026-06-10T12:00:00.000Z",
+      "authorDisplayName": "اینار (Einar)",
+      "authorAge": 52,
+      "authorCountry": "ایسلند",
+      "authorCity": "ریکیاویک",
+      "isAnonymous": false,
+      "neededCount": 19
+    },
+    {
+      "id": "seed-5",
+      "userId": "user-oaxaca-26",
+      "text": "مشغول بودن همیشگی، بهانه‌ای فریبنده بود تا از تصمیم‌گیری درباره آنچه واقعاً از زندگی می‌خواهم طفره بروم.",
+      "context": "هفتاد ساعت کار هفتگی در اوایل بیست‌سالگی صرفاً برای احساس داشتن هدف.",
+      "topics": [
+        "Work",
+        "Time",
+        "Freedom"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-06-15T18:30:00.000Z",
+      "createdAt": "2026-06-15T18:30:00.000Z",
+      "authorDisplayName": "متئو (Mateo)",
+      "authorAge": 26,
+      "authorCountry": "مکزیک",
+      "authorCity": "اوآخاکا",
+      "isAnonymous": false,
+      "neededCount": 11
+    },
+    {
+      "id": "seed-6",
+      "userId": "user-chicago-45",
+      "text": "پدر و مادرم پیش از آنکه والدین من باشند، انسان‌هایی با آرزوها و بیم‌های خود بودند. درک این نکته نگاهم را به آنان دگرگون کرد.",
+      "context": "یافتن نامه‌های قدیمی مادرم در دهه بیست‌سالگی‌اش وقتی رؤیاهایش را به خاطر زندگی کنار گذاشت.",
+      "topics": [
+        "Family",
+        "Growth",
+        "Life"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-06-22T09:45:00.000Z",
+      "createdAt": "2026-06-22T09:45:00.000Z",
+      "authorDisplayName": "دیوید (David)",
+      "authorAge": 45,
+      "authorCountry": "ایالات متحده",
+      "authorCity": "شیکاگو",
+      "isAnonymous": false,
+      "neededCount": 32
+    },
+    {
+      "id": "seed-7",
+      "userId": "user-nairobi-29",
+      "text": "شکست هنگام رخ دادن هرگز شاعرانه نیست؛ تنها احساس سنگین شرم و استیصال دارد. شفافیت و حکمت سال‌ها بعد فرا می‌رسد.",
+      "context": "هنگامی که نخستین پروژه نیروگاه خورشیدی‌ام پس از دو سال تمام پس‌انداز فروریخت.",
+      "topics": [
+        "Failure",
+        "Growth",
+        "Courage"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-07-01T11:20:00.000Z",
+      "createdAt": "2026-07-01T11:20:00.000Z",
+      "authorDisplayName": "وانجیرو (Wanjiru)",
+      "authorAge": 29,
+      "authorCountry": "کنیا",
+      "authorCity": "نایروبی",
+      "isAnonymous": false,
+      "neededCount": 16
+    },
+    {
+      "id": "seed-8",
+      "userId": "user-oslo-64",
+      "text": "پس از فقدان عزیزی نزدیک، بعدازظهرهای ساده و معمولی بسیار گرانبهاتر از بزرگ‌ترین برنامه‌ها و رؤیاها شدند.",
+      "context": "پس از دست دادن برادر جوان‌ترم در زمستان ۲۰۲۲.",
+      "topics": [
+        "Loss",
+        "Time",
+        "Life"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-07-04T16:10:00.000Z",
+      "createdAt": "2026-07-04T16:10:00.000Z",
+      "authorDisplayName": "آسترید (Astrid)",
+      "authorAge": 64,
+      "authorCountry": "نروژ",
+      "authorCity": "اسلو",
+      "isAnonymous": false,
+      "neededCount": 27
+    },
+    {
+      "id": "seed-9",
+      "userId": "user-buenosaires-31",
+      "text": "استراحت پاداشی برای تمام کردن همه وظایف نیست. شما حق دارید پیش از ته کشیدن کامل توانتان، دست از کار بکشید.",
+      "context": "فرسودگی شدید روحی و جسمی که در سال ۲۰۲۴ مرا راهی بیمارستان کرد.",
+      "topics": [
+        "Work",
+        "Life",
+        "Growth"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-07-08T20:00:00.000Z",
+      "createdAt": "2026-07-08T20:00:00.000Z",
+      "authorDisplayName": "ناشناس",
+      "authorAge": 31,
+      "authorCountry": "آرژانتین",
+      "authorCity": "بوئنوس آیرس",
+      "isAnonymous": true,
+      "neededCount": 42
+    },
+    {
+      "id": "seed-10",
+      "userId": "user-seoul-22",
+      "text": "عشق یعنی یافتن کسی که مشتاق است تو را در لحظاتی که در حال تظاهر و نقش بازی کردن نیستی، تماشا کند.",
+      "context": "نخستین سال زندگی مستقل و چشیدن طعم روابط بی‌نقاب و زلال.",
+      "topics": [
+        "Love",
+        "Friendship"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-07-12T13:40:00.000Z",
+      "createdAt": "2026-07-12T13:40:00.000Z",
+      "authorDisplayName": "مین-جون (Min-Jun)",
+      "authorAge": 22,
+      "authorCountry": "کره جنوبی",
+      "authorCity": "سئول",
+      "isAnonymous": false,
+      "neededCount": 9
+    },
+    {
+      "id": "seed-11",
+      "userId": "user-montreal-42",
+      "text": "عشق صاعقه‌ای مهیب نیست که از آن جان به در ببری؛ تصمیمی زنده است که پیوسته در سه‌شنبه‌های معمولی تکرارش می‌کنی.",
+      "context": "پانزده سال زندگی مشترک و کشف آرامش در همراهی‌های متین روزمره.",
+      "topics": [
+        "Love",
+        "Family",
+        "Time"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-07-15T09:00:00.000Z",
+      "createdAt": "2026-07-15T09:00:00.000Z",
+      "authorDisplayName": "کلر (Claire)",
+      "authorAge": 42,
+      "authorCountry": "کانادا",
+      "authorCity": "مونترال",
+      "isAnonymous": false,
+      "neededCount": 23
+    },
+    {
+      "id": "seed-12",
+      "userId": "user-athens-76",
+      "text": "دشوارترین بخش عشق یافتن فرد شایسته نیست؛ بلکه بدل شدن به انسانی است که توانایی دوست داشتن بدون احساس تملک را داشته باشد.",
+      "context": "نگاه به پنجاه سال سکوت پرمهر و همراهی با همسر فقیدم.",
+      "topics": [
+        "Love",
+        "Loss",
+        "Life"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-07-19T17:15:00.000Z",
+      "createdAt": "2026-07-19T17:15:00.000Z",
+      "authorDisplayName": "نیکوس (Nikos)",
+      "authorAge": 76,
+      "authorCountry": "یونان",
+      "authorCity": "آتن",
+      "isAnonymous": false,
+      "neededCount": 38
+    },
+    {
+      "id": "seed-13",
+      "userId": "user-berlin-36",
+      "text": "یکی از دشوارترین مهارت‌های زندگی دانستن زمان رها کردن است؛ چرا که اصرار بر ماندن اغلب در نقاب وفاداری خود را جا می‌زند.",
+      "context": "خروج از همکاری هنری مشترکی که دیگر هیچ روحی در کالبد هیچ‌کداممان باقی نمی‌گذاشت.",
+      "topics": [
+        "Change",
+        "Courage",
+        "Freedom"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-07-24T14:30:00.000Z",
+      "createdAt": "2026-07-24T14:30:00.000Z",
+      "authorDisplayName": "فلیکس (Felix)",
+      "authorAge": 36,
+      "authorCountry": "آلمان",
+      "authorCity": "برلین",
+      "isAnonymous": false,
+      "neededCount": 18
+    },
+    {
+      "id": "seed-14",
+      "userId": "user-mumbai-58",
+      "text": "هرگز ثروت مادی را با آرامش درون یکسان نگیرید. سی سال دویدم تا یکی را بیندوزم در حالی که دیگری آرام‌آرام از دستم می‌چکید.",
+      "context": "فروش شرکت نساجی و کارخانه‌ام در ۵۵ سالگی.",
+      "topics": [
+        "Money",
+        "Work",
+        "Regret"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-07-28T07:50:00.000Z",
+      "createdAt": "2026-07-28T07:50:00.000Z",
+      "authorDisplayName": "راجش (Rajesh)",
+      "authorAge": 58,
+      "authorCountry": "هند",
+      "authorCity": "بمبئی",
+      "isAnonymous": false,
+      "neededCount": 25
+    },
+    {
+      "id": "seed-15",
+      "userId": "user-istanbul-19",
+      "text": "تقریباً همه اطرافیانتان در حال آزمون و خطا در میانه راه هستند. منتظر روزی نمانید که احساس کنید رسماً به یک انسان کامل تبدیل شده‌اید.",
+      "context": "اولین ترم زندگی مستقل در خوابگاه دانشجویی استانبول.",
+      "topics": [
+        "Growth",
+        "Courage",
+        "Life"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-08-01T15:10:00.000Z",
+      "createdAt": "2026-08-01T15:10:00.000Z",
+      "authorDisplayName": "الیف (Elif)",
+      "authorAge": 19,
+      "authorCountry": "ترکیه",
+      "authorCity": "استانبول",
+      "isAnonymous": false,
+      "neededCount": 18
+    },
+    {
+      "id": "seed-16",
+      "userId": "user-sydney-49",
+      "text": "دوستی‌ها به ندرت در دعواها پایان می‌یابند؛ در تماس‌های بی‌پاسخی رنگ می‌بازند که همواره قصد داشتید فردا برقرار کنید.",
+      "context": "درک اینکه سه سال است با صمیمی‌ترین دوست دوران کودکی‌ام هم‌کلام نشده‌ام.",
+      "topics": [
+        "Friendship",
+        "Time",
+        "Regret"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-08-05T22:00:00.000Z",
+      "createdAt": "2026-08-05T22:00:00.000Z",
+      "authorDisplayName": "لیام (Liam)",
+      "authorAge": 49,
+      "authorCountry": "استرالیا",
+      "authorCity": "سیدنی",
+      "isAnonymous": false,
+      "neededCount": 29
+    },
+    {
+      "id": "seed-17",
+      "userId": "user-bogota-62",
+      "text": "بخشش به ندرت برای طرف مقابل است؛ بخشش تصمیم به زمین گذاشتن بار خطای دیگری از روی سینه خودتان است.",
+      "context": "آشتی با برادرم پس از بیست و دو سال سکوت و قهر.",
+      "topics": [
+        "Family",
+        "Freedom",
+        "Growth"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-08-10T11:45:00.000Z",
+      "createdAt": "2026-08-10T11:45:00.000Z",
+      "authorDisplayName": "کامیلا (Camila)",
+      "authorAge": 62,
+      "authorCountry": "کلمبیا",
+      "authorCity": "بوگوتا",
+      "isAnonymous": false,
+      "neededCount": 35
+    },
+    {
+      "id": "seed-18",
+      "userId": "user-capetown-39",
+      "text": "لازم نیست از هر چه مایه نشاط شماست پول بسازید. برخی چیزها تنها زمانی پاک و اصیل می‌مانند که بهایی برایشان تعیین نشود.",
+      "context": "تبدیل علاقه سفالگری به فروشگاه و دو سال زمان برای به یاد آوردن اینکه چرا خاک رس را دوست داشتم.",
+      "topics": [
+        "Work",
+        "Money",
+        "Freedom"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-08-14T08:30:00.000Z",
+      "createdAt": "2026-08-14T08:30:00.000Z",
+      "authorDisplayName": "تابو (Thabo)",
+      "authorAge": 39,
+      "authorCountry": "آفریقای جنوبی",
+      "authorCity": "کیپ‌تاون",
+      "isAnonymous": false,
+      "neededCount": 22
+    },
+    {
+      "id": "seed-19",
+      "userId": "user-dublin-83",
+      "text": "در روزگار پیری، به ندرت از ریسک‌هایی که به سنگ خورد افسوس می‌خورید؛ تنها در حسرت درهایی می‌مانید که پیش رویتان گشوده بود و هرگز گامی به درون نگذاشتید.",
+      "context": "اندیشیدن به گروه تئاتر کوچکی که در سال ۱۹۶۸ قصد راه‌اندازی‌اش را داشتیم و نکردیم.",
+      "topics": [
+        "Courage",
+        "Regret",
+        "Time",
+        "Life"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-08-18T16:00:00.000Z",
+      "createdAt": "2026-08-18T16:00:00.000Z",
+      "authorDisplayName": "پاتریک (Patrick)",
+      "authorAge": 83,
+      "authorCountry": "ایرلند",
+      "authorCity": "دوبلین",
+      "isAnonymous": false,
+      "neededCount": 48
+    },
+    {
+      "id": "seed-20",
+      "userId": "user-singapore-27",
+      "text": "مقایسه آشفتگی‌های پنهان درون خود با نماهای گلچین‌شده زندگی دیگران، شما را همواره در حسرت و عقب‌ماندگی نگه می‌دارد.",
+      "context": "حذف شبکه‌های اجتماعی در دومین سال کارم در بانکداری بین‌المللی.",
+      "topics": [
+        "Growth",
+        "Life",
+        "Change"
+      ],
+      "status": "published",
+      "isCurrent": true,
+      "publishedAt": "2026-08-20T04:15:00.000Z",
+      "createdAt": "2026-08-20T04:15:00.000Z",
+      "authorDisplayName": "ناشناس",
+      "authorAge": 27,
+      "authorCountry": "سنگاپور",
+      "authorCity": "سنگاپور",
+      "isAnonymous": true,
+      "neededCount": 31
+    },
+    {
+      "id": "seed-prev-1",
+      "userId": "user-lisbon-38",
+      "text": "تأیید و تشویق دیگران تنها معیار سنجش ارزش واقعی کاری است که انجام می‌دهی.",
+      "context": "در اوایل دوران تأسیس شرکت تبلیغاتی‌ام در لیسبون در دهه بیست‌سالگی.",
+      "topics": [
+        "Work",
+        "Freedom",
+        "Growth"
+      ],
+      "status": "published",
+      "isCurrent": false,
+      "publishedAt": "2016-04-10T10:00:00.000Z",
+      "archivedAt": "2026-05-18T14:20:00.000Z",
+      "createdAt": "2016-04-10T10:00:00.000Z",
+      "authorDisplayName": "مارتا (Marta)",
+      "authorAge": 28,
+      "authorCountry": "پرتغال",
+      "authorCity": "لیسبون",
+      "isAnonymous": false,
+      "neededCount": 5
+    },
+    {
+      "id": "seed-prev-2",
+      "userId": "user-kyoto-71",
+      "text": "سرعت و بهره‌وری، کلید اصلی ساختن آثاری است که در یادها می‌مانند.",
+      "context": "در بیست و پنجمین سال فعالیت کارگاه نجاری در کیوتو، پیش از درک اهمیت سکون و ریتم چوب.",
+      "topics": [
+        "Work",
+        "Time",
+        "Life"
+      ],
+      "status": "published",
+      "isCurrent": false,
+      "publishedAt": "2007-09-15T08:00:00.000Z",
+      "archivedAt": "2026-04-12T10:00:00.000Z",
+      "createdAt": "2007-09-15T08:00:00.000Z",
+      "authorDisplayName": "کنجی (Kenji)",
+      "authorAge": 52,
+      "authorCountry": "ژاپن",
+      "authorCity": "کیوتو",
+      "isAnonymous": false,
+      "neededCount": 8
+    },
+    {
+      "id": "seed-prev-3",
+      "userId": "user-tehran-34",
+      "text": "اگر همیشه به کمال بی‌نقص نرسی، احترام و جایگاهت را در میان اطرافیان از دست خواهی داد.",
+      "context": "در سال‌های اولیه ورود به دانشگاه و اضطراب مداوم از قضاوت دیگران.",
+      "topics": [
+        "Growth",
+        "Life"
+      ],
+      "status": "published",
+      "isCurrent": false,
+      "publishedAt": "2016-05-20T12:00:00.000Z",
+      "archivedAt": "2026-06-01T08:15:00.000Z",
+      "createdAt": "2016-05-20T12:00:00.000Z",
+      "authorDisplayName": "سارا",
+      "authorAge": 24,
+      "authorCountry": "ایران",
+      "authorCity": "تهران",
+      "isAnonymous": false,
+      "neededCount": 12
+    },
+    {
+      "id": "seed-prev-4",
+      "userId": "user-chicago-45",
+      "text": "پدر و مادرها باید همیشه راهنما و تکیه‌گاه بدون نقص باشند و هر خطایی از آن‌ها غیرقابل بخشش است.",
+      "context": "پیش از به دنیا آمدن فرزند خودم و لمس سنگینی بار والدگری.",
+      "topics": [
+        "Family",
+        "Growth"
+      ],
+      "status": "published",
+      "isCurrent": false,
+      "publishedAt": "2011-03-14T11:00:00.000Z",
+      "archivedAt": "2026-06-22T09:45:00.000Z",
+      "createdAt": "2011-03-14T11:00:00.000Z",
+      "authorDisplayName": "دیوید (David)",
+      "authorAge": 30,
+      "authorCountry": "ایالات متحده",
+      "authorCity": "شیکاگو",
+      "isAnonymous": false,
+      "neededCount": 9
+    },
+    {
+      "id": "seed-prev-5",
+      "userId": "user-reyk-52",
+      "text": "سکوت و تحمل به هر قیمتی، بالاترین نشانه وفاداری و فداکاری در یک رابطه است.",
+      "context": "در اوایل دهه نخست ازدواج با همسرم.",
+      "topics": [
+        "Love",
+        "Courage"
+      ],
+      "status": "published",
+      "isCurrent": false,
+      "publishedAt": "2010-08-01T09:30:00.000Z",
+      "archivedAt": "2026-06-10T12:00:00.000Z",
+      "createdAt": "2010-08-01T09:30:00.000Z",
+      "authorDisplayName": "اینار (Einar)",
+      "authorAge": 36,
+      "authorCountry": "ایسلند",
+      "authorCity": "ریکیاویک",
+      "isAnonymous": false,
+      "neededCount": 14
+    },
+    {
+      "id": "seed-prev-6",
+      "userId": "user-oslo-64",
+      "text": "تمام ارزش روزهای زندگی در اهداف بزرگ و نقشه‌های بلندمدتی است که برای آینده ترسیم می‌کنی.",
+      "context": "در میانسالی پیش از درگذشت ناگهانی برادر عزیزم.",
+      "topics": [
+        "Time",
+        "Life",
+        "Loss"
+      ],
+      "status": "published",
+      "isCurrent": false,
+      "publishedAt": "2010-11-12T14:00:00.000Z",
+      "archivedAt": "2026-07-04T16:10:00.000Z",
+      "createdAt": "2010-11-12T14:00:00.000Z",
+      "authorDisplayName": "آسترید (Astrid)",
+      "authorAge": 48,
+      "authorCountry": "نروژ",
+      "authorCity": "اسلو",
+      "isAnonymous": false,
+      "neededCount": 11
+    },
+    {
+      "id": "seed-prev-7",
+      "userId": "user-athens-76",
+      "text": "عشق یعنی یافتن کسی که بتوانی تا ابد او را در انحصار و قلمرو امن خود نگه داری.",
+      "context": "سال‌های اولیه ازدواج در آتن در دوران جوانی.",
+      "topics": [
+        "Love",
+        "Life"
+      ],
+      "status": "published",
+      "isCurrent": false,
+      "publishedAt": "1988-06-10T12:00:00.000Z",
+      "archivedAt": "2026-07-19T17:15:00.000Z",
+      "createdAt": "1988-06-10T12:00:00.000Z",
+      "authorDisplayName": "نیکوس (Nikos)",
+      "authorAge": 38,
+      "authorCountry": "یونان",
+      "authorCity": "آتن",
+      "isAnonymous": false,
+      "neededCount": 20
+    }
+  ],
+  "keeps": [
+    {
+      "id": "kp_99kytfmmtcuw4oz",
+      "userId": "usr_i5i7nlwmtcuvnrr",
+      "lessonId": "seed-prev-7",
+      "createdAt": "2026-08-28T11:16:19.523Z"
+    },
+    {
+      "id": "kp_8z7bvermtcuyj5i",
+      "userId": "usr_i5i7nlwmtcuvnrr",
+      "lessonId": "seed-12",
+      "createdAt": "2026-08-28T11:18:11.574Z"
+    }
+  ],
+  "reflections": [],
+  "reports": [],
+  "neededReactions": [
+    {
+      "id": "nd_8vs99qlmtcuy072",
+      "userId": "usr_i5i7nlwmtcuvnrr",
+      "lessonId": "seed-15",
+      "createdAt": "2026-08-28T11:17:47.006Z"
+    }
+  ]
+}
